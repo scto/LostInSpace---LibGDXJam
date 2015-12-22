@@ -1,0 +1,97 @@
+
+pack.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bush
+  rotate: false
+  xy: 2, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Planet1
+  rotate: false
+  xy: 429, 82
+  size: 281, 282
+  orig: 281, 282
+  offset: 0, 0
+  index: -1
+Planet2
+  rotate: false
+  xy: 2, 31
+  size: 425, 333
+  orig: 425, 333
+  offset: 0, 0
+  index: -1
+Planet3
+  rotate: false
+  xy: 712, 133
+  size: 238, 231
+  orig: 238, 231
+  offset: 0, 0
+  index: -1
+Planet4
+  rotate: false
+  xy: 1646, 326
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: -1
+Planet5
+  rotate: false
+  xy: 1831, 335
+  size: 179, 175
+  orig: 179, 175
+  offset: 0, 0
+  index: -1
+barrack
+  rotate: false
+  xy: 1394, 360
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+coheteoff
+  rotate: false
+  xy: 952, 187
+  size: 110, 177
+  orig: 110, 177
+  offset: 0, 0
+  index: -1
+plataforma
+  rotate: false
+  xy: 1058, 396
+  size: 334, 114
+  orig: 334, 114
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 2, 366
+  size: 1054, 144
+  orig: 1054, 144
+  offset: 0, 0
+  index: -1
+poi
+  rotate: false
+  xy: 2012, 478
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 429, 46
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+sign
+  rotate: false
+  xy: 712, 91
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
